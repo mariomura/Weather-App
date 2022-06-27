@@ -7,3 +7,5 @@ Language: Python, Html, Css
 Openweather API https://openweathermap.org/api
 
 Retrieve data from API and render it within an HTML template.
+
+![alt text](http://C:\Users\mario\OneDrive\Desktop)
