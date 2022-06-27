@@ -2,7 +2,7 @@
 
 Framework: Django
 
-Language: Python, Html, Css
+Language: Python, HTML, CSS
 
 Openweather API https://openweathermap.org/api
 
