@@ -9,4 +9,4 @@ Openweather API https://openweathermap.org/api
 Retrieve data from API and render it within an HTML template.
 
 
-![](images/image1.png)
+![](images/filename%image1.png)
